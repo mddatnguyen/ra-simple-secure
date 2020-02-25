@@ -12,6 +12,9 @@
     "express": "^4.17.1",
     "express-basic-auth": "^1.2.0"
   },
+  "engines": {
+    "npm": "6.x"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
